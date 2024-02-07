@@ -5,14 +5,13 @@ I am a Frontend developer with 4+ years of experience in Web design and developm
 I enjoy learning new technologies and working with web development, game development and people from all over the world
 
 ## Programming Language
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,java&perline=4)](https://skillicons.dev)
- ReactJs / Typescript / Javascript / HTML / CSS / NodeJs / Java
+[![My Skills](https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,nodejs,java,express)](https://skillicons.dev)
 
 ## Technology
-Unity 3D / Google Firebase / AWS Lambda / AWS DynamoDB / Salesforce CRM
+[![My Skills](https://skillicons.dev/icons?i=unity,firebase,aws,dynamodb)](https://skillicons.dev)
 
 - 🌱 I’m currently learning Typescript / MongoDB / ReactNative / DevOps 
-- 💬 Ask me about ReactJs / Javascript / HTML 
+- 💬 Ask me about ReactJs / Javascript / HTML
 - 📫 How to reach me: yeung_edward@yahoo.com 
 - 😄 Pronouns: He/him 
 
