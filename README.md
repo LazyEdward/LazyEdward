@@ -18,7 +18,7 @@ I enjoy learning new technologies and working with web development, game develop
 - 📫 How to reach me: yeung_edward@yahoo.com 
 - 😄 Pronouns: He/him 
 
-## Connect with meConnect with me
+## Connect with me
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:yeung_edward@yahoo.com)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/LazyEdward/)
