@@ -25,7 +25,7 @@ And also AWS Lambda / Salesforce CRM
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyEdward&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-# Social Media
+## Social Media
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:yeung_edward@yahoo.com)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/LazyEdward/)
