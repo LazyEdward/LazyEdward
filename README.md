@@ -1,16 +1,22 @@
-### Hi there 👋
+### Nice to meet you 👋, my name is Pui Yam Yeung (Edward)
 
-<!--
-**LazyEdward/LazyEdward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Frontend developer with 4+ years of experience in Web design and development in various industries, such as Warehouse software, Customer Relationship Management Software. 
 
-Here are some ideas to get you started:
+I enjoy learning new technologies and working with web development, game development and people from all over the world
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: ReactJs / Typescript / Javascript / HTML / CSS / NodeJs / Java / Unity 3D
+
+- 🌱 I’m currently learning Typescript / MongoDB / ReactNative / DevOps 
+- 💬 Ask me about ReactJs / Javascript / HTML 
+- 📫 How to reach me: yeung_edward@yahoo.com 
+- 😄 Pronouns: He/him 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/LazyEdward)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/edward-yeung-805b44a3//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/LazyEdward)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/LazyEdward)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/LazyEdward)  
+
