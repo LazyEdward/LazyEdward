@@ -14,6 +14,8 @@ I enjoy learning new technologies and working with web development, game develop
 And also AWS Lambda / Salesforce CRM
 
 
+## Personal Stuffs
+
 - 📚 I’m currently learning Typescript / MongoDB / ReactNative / DevOps 
 - 💬 Ask me about ReactJs / Javascript / HTML
 - 📫 How to reach me: yeung_edward@yahoo.com 
