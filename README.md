@@ -10,7 +10,6 @@ I enjoy learning new technologies and working with web development, game develop
 ## Technology
 [![My Skills](https://skillicons.dev/icons?i=unity,firebase,dynamodb)](https://skillicons.dev)
 
-
 And also AWS Lambda / Salesforce CRM
 
 
@@ -21,17 +20,17 @@ And also AWS Lambda / Salesforce CRM
 - 📫 How to reach me: yeung_edward@yahoo.com 
 - 😄 Pronouns: He/him 
 
+## Connect with meConnect with me
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:yeung_edward@yahoo.com)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/LazyEdward/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/edward-yeung-805b44a3/)
+
 ## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyEdward&hide=issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyEdward&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-## Social Media
-
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:yeung_edward@yahoo.com)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/LazyEdward/)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/edward-yeung-805b44a3/)
 
 ## Certificates
 
