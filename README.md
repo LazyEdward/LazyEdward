@@ -14,6 +14,6 @@ Skills: ReactJs / Typescript / Javascript / HTML / CSS / NodeJs / Java / Unity 3
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/LazyEdward)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/edward-yeung-805b44a3//)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyEdward&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyEdward&hide=issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyEdward&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
