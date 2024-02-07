@@ -10,8 +10,6 @@ I enjoy learning new technologies and working with web development, game develop
 ## Technology
 [![My Skills](https://skillicons.dev/icons?i=unity,firebase,dynamodb)](https://skillicons.dev)
 
-And also AWS Lambda / Salesforce CRM
-
 
 ## Personal Stuffs
 
