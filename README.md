@@ -33,4 +33,4 @@ And also AWS Lambda / Salesforce CRM
 
 ## Certificates
 
-[![image](https://github.com/LazyEdward/LazyEdward/assets/26587589/8ae6891c-4acf-4273-b327-6957a741f147)](https://www.hackerrank.com/certificates/2be769096ac9)
+[<img src="https://github.com/LazyEdward/LazyEdward/assets/26587589/8ae6891c-4acf-4273-b327-6957a741f147" width="300"/>](https://www.hackerrank.com/certificates/2be769096ac9)
