@@ -4,7 +4,12 @@ I am a Frontend developer with 4+ years of experience in Web design and developm
 
 I enjoy learning new technologies and working with web development, game development and people from all over the world
 
-Skills: ReactJs / Typescript / Javascript / HTML / CSS / NodeJs / Java / Unity 3D
+## Programming Language
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,java&perline=4)](https://skillicons.dev)
+ ReactJs / Typescript / Javascript / HTML / CSS / NodeJs / Java
+
+## Technology
+Unity 3D / Google Firebase / AWS Lambda / AWS DynamoDB / Salesforce CRM
 
 - 🌱 I’m currently learning Typescript / MongoDB / ReactNative / DevOps 
 - 💬 Ask me about ReactJs / Javascript / HTML 
