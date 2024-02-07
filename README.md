@@ -27,8 +27,10 @@ And also AWS Lambda / Salesforce CRM
 
 # Social Media
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/LazyEdward)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/edward-yeung-805b44a3//)  
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:yeung_edward@yahoo.com)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/LazyEdward/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/edward-yeung-805b44a3/)
 
 ## Certificates
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]([https://github.com/https://github.com/LazyEdward](https://www.hackerrank.com/certificates/2be769096ac9)https://www.hackerrank.com/certificates/2be769096ac9)
+[![image](https://github.com/LazyEdward/LazyEdward/assets/26587589/8ae6891c-4acf-4273-b327-6957a741f147)](https://www.hackerrank.com/certificates/2be769096ac9)
