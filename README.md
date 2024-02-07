@@ -5,10 +5,10 @@ I am a Frontend developer with 4+ years of experience in Web design and developm
 I enjoy learning new technologies and working with web development, game development and people from all over the world
 
 ## Programming Language
-![My Skills](https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,nodejs,java,express)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,nodejs,java,express)](https://skillicons.dev)
 
 ## Technology
-![My Skills](https://skillicons.dev/icons?i=unity,firebase,dynamodb)
+[![My Skills](https://skillicons.dev/icons?i=unity,firebase,dynamodb)](https://skillicons.dev)
 
 
 And also AWS Lambda / Salesforce CRM
