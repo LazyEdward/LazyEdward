@@ -13,7 +13,7 @@ I enjoy learning new technologies and working with web development, game develop
 
 ## Personal Stuffs
 
-- 📚 I’m currently learning Typescript / MongoDB / ReactNative / DevOps 
+- 📚 I’m currently learning Typescript / MongoDB / Cypress 
 - 💬 Ask me about ReactJs / Javascript / HTML
 - 📫 How to reach me: yeung_edward@yahoo.com 
 - 😄 Pronouns: He/him 
