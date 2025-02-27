@@ -1,6 +1,6 @@
 ### Nice to meet you 👋, my name is Pui Yam Yeung (Edward)
 
-I am a Frontend developer with 4+ years of experience in Web design and development in various industries, such as Warehouse software, Customer Relationship Management Software. 
+I am a Frontend developer with 4+ years of experience in Web design and development in various industries, such as Warehouse software, Customer Relationship Management Software and Interactive experience projects. 
 
 I enjoy learning new technologies and working with web development, game development and people from all over the world
 
